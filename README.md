@@ -1,21 +1,17 @@
-**Pulsion Industry Mobile Application**
-Role: Mobile App Developer (Flutter & Firebase)
-Project Type: ERP-based Industrial Mobile Application
+# pulsenindustryapplication
 
-Description:
-The Pulsion Industry Mobile Application is a custom-built ERP solution designed to streamline inventory management, order processing, workforce tracking, and real-time data analytics for an industrial setting. Developed using Flutter for cross-platform compatibility and Firebase for backend services, the app enables efficient monitoring and control of core operational activities directly from mobile devices.
+A new Flutter project.
 
-Key Features:
+## Getting Started
 
-Inventory Management: Real-time tracking of raw materials and finished goods
+This project is a starting point for a Flutter application.
 
-Order Processing: Streamlined order creation, updates, and delivery tracking
 
-Workforce Management: Attendance logging and task allocation
+ few resources to get you started if this is your first Flutter project:
 
-Live Analytics Dashboard: Visual insights into stock levels, order status, and workforce performance
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Cloud Integration: Firebase services for authentication, Firestore database, and real-time data sync
-
-Impact:
-The application enhanced operational efficiency, reduced manual errors, and provided on-the-go accessibility to critical business data, enabling smarter decision-making in daily industrial operations.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
